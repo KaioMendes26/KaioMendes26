@@ -1,4 +1,4 @@
-## Oi eu sou o Kaio Felipe | Estudo Algoritimos e Lógica de Programação | C#
+## Oi eu sou o Kaio Felipe | Estududante de Programação | Liguagem C#
 <div align="center">
   <a href="(https://www.linkedin.com/in/kaio-felipe26/)">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaioMendes26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
